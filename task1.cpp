@@ -47,7 +47,7 @@ void showResult(Student s) {
 }
  
 int main() {
-    Student s1("Aarav", 101, 88.5);
+    Student s1("HEMANTH_K_C", 101, 88.5);
     Student s2("Diya", 102, 92);
  
     s1.display();
